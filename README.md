@@ -3,7 +3,7 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Sandeep.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src='./public/homepage.png'>
+  <img alt="Demo" src="https://github.com/sandyp007/Portfolio/blob/1b2b26b58a2e9a60b638c22358d2ce51a14b3182/public/homepage.png">
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sandyp007](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
