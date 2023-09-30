@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sandeep Prajapati </span>
             from <span className="purple"> Lucknow, India.</span>
-            <br /> I am a Software Developer and Completed of Bachelors in Computer Science.
+            <br /> I am a Software Developer and Completed Bachelors Degree in Computer Science and Engineering.
             <br />
             Additionally, I am currently looking for Opportunity.
             <br />
@@ -19,7 +19,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Help myself to learn something new
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
