@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="Task Manager"
               description="A to-do list is a helpful tool for organizing and prioritizing tasks and activities. It can be tailored to your specific needs and can include any tasks or goals you want to accomplish. "
-              ghLink="https://github.com/sandyp007/ToDo.git"
+              ghLink="https://github.com/sandyp007/todo-nextjs"
               demoLink="https://taskforu.vercel.app/"
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Live Weather"
               description="The Live Weather Forecast Application is a dynamic web-based tool designed to provide users with real-time weather updates and forecasts. Leveraging modern web technologies and APIs, this project delivers accurate weather information in an intuitive and user-friendly interface. "
-              ghLink="https://github.com/sandyp007/ToDo.git"
+              ghLink="https://github.com/sandyp007/Weather-App"
               demoLink="https://weathernear.vercel.app/"
             />
           </Col>
@@ -58,7 +58,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="A portfolio website is a unique way to showcase your work and let others know about yourself. It’s like an evergreen platform for your projects, case studies, and information about you. In addition, it’s one of the best ways to express your personality, experience, and capabilities. "
-              ghLink="https://github.com/sandyp007/ToDo.git"
+              ghLink="https://github.com/sandyp007/Portfolio"
               demoLink="https://aboutmee.vercel.app/"
             />
           </Col>
