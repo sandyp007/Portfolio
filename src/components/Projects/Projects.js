@@ -6,6 +6,7 @@ import Particle from "../Particle";
 import todo from "../../Assets/Projects/todo.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import weather from "../../Assets/Projects/weather.png";
+import portfolio from "../../Assets/Projects/portfolio.png";
 
 function Projects() {
   return (
@@ -50,6 +51,18 @@ function Projects() {
               demoLink="https://weathernear.vercel.app/"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={portfolio}
+              isBlog={false}
+              title="Task Manager"
+              description="A portfolio website is a unique way to showcase your work and let others know about yourself. It’s like an evergreen platform for your projects, case studies, and information about you. In addition, it’s one of the best ways to express your personality, experience, and capabilities. "
+              ghLink="https://github.com/sandyp007/ToDo.git"
+              demoLink="https://aboutmee.vercel.app/"
+            />
+          </Col>
+
         </Row>
       </Container>
     </Container>
