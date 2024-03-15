@@ -56,7 +56,7 @@ function Projects() {
             <ProjectCard
               imgPath={portfolio}
               isBlog={false}
-              title="Task Manager"
+              title="Personal Portfolio"
               description="A portfolio website is a unique way to showcase your work and let others know about yourself. It’s like an evergreen platform for your projects, case studies, and information about you. In addition, it’s one of the best ways to express your personality, experience, and capabilities. "
               ghLink="https://github.com/sandyp007/ToDo.git"
               demoLink="https://aboutmee.vercel.app/"
