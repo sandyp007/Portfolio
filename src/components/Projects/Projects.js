@@ -35,7 +35,7 @@ function Projects() {
               title="Task Manager"
               description="A to-do list is a helpful tool for organizing and prioritizing tasks and activities. It can be tailored to your specific needs and can include any tasks or goals you want to accomplish. "
               ghLink="https://github.com/sandyp007/ToDo.git"
-              demoLink="https://to-do-delta-hazel.vercel.app/"
+              demoLink="https://taskforu.vercel.app/"
             />
           </Col>
         </Row>
