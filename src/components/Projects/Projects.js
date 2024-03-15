@@ -3,8 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import editor from "../../Assets/Projects/codeEditor.png";
+import todo from "../../Assets/Projects/todo.png";
 import chatify from "../../Assets/Projects/chatify.png";
+import weather from "../../Assets/Projects/weather.png";
 
 function Projects() {
   return (
@@ -30,12 +31,23 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={todo}
               isBlog={false}
               title="Task Manager"
               description="A to-do list is a helpful tool for organizing and prioritizing tasks and activities. It can be tailored to your specific needs and can include any tasks or goals you want to accomplish. "
               ghLink="https://github.com/sandyp007/ToDo.git"
               demoLink="https://taskforu.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weather}
+              isBlog={false}
+              title="Task Manager"
+              description="A to-do list is a helpful tool for organizing and prioritizing tasks and activities. It can be tailored to your specific needs and can include any tasks or goals you want to accomplish. "
+              ghLink="https://github.com/sandyp007/ToDo.git"
+              demoLink="https://weathernear.vercel.app/"
             />
           </Col>
         </Row>
