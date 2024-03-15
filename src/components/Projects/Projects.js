@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={weather}
               isBlog={false}
-              title="Task Manager"
-              description="A to-do list is a helpful tool for organizing and prioritizing tasks and activities. It can be tailored to your specific needs and can include any tasks or goals you want to accomplish. "
+              title="Live Weather"
+              description="The Live Weather Forecast Application is a dynamic web-based tool designed to provide users with real-time weather updates and forecasts. Leveraging modern web technologies and APIs, this project delivers accurate weather information in an intuitive and user-friendly interface. "
               ghLink="https://github.com/sandyp007/ToDo.git"
               demoLink="https://weathernear.vercel.app/"
             />
